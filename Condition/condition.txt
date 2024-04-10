@@ -1,0 +1,2 @@
+Pembahasan Conditions pada Golang
+Conditions atau kondisi dalam Golang digunakan untuk menentukan alur program berdasarkan nilai tertentu. Hal ini memungkinkan Anda untuk membuat program yang lebih kompleks dan responsif terhadap berbagai situasi.
