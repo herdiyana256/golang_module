@@ -1,0 +1,33 @@
+FORMAT INITIAL CODE 
+
+Berikut adalah penjelasan tentang arti %f, %d, %s, dan %T dalam Golang:
+
+%f: Digunakan untuk memformat data floating-point. Contohnya:
+
+fmt.Printf("%f", 3.14159) akan mencetak 3.14159.
+fmt.Printf("%.2f", 3.14159) akan mencetak 3.14.
+%d: Digunakan untuk memformat data integer. Contohnya:
+
+fmt.Printf("%d", 100) akan mencetak 100.
+fmt.Printf("%d", -50) akan mencetak -50.
+%s: Digunakan untuk memformat data string. Contohnya:
+
+fmt.Printf("%s", "Hello, world!") akan mencetak Hello, world!.
+fmt.Printf("%s", "Golang)akan mencetakGolang`.
+%T: Digunakan untuk mencetak tipe data dari suatu variabel. Contohnya:
+
+x := 100 fmt.Printf("%T", x) akan mencetak int.
+y := "Hello, world!" fmt.Printf("%T", y) akan mencetak string.
+Tipe Format Lainnya:
+
+Selain %f, %d, %s, dan %T, Golang juga memiliki beberapa tipe format lain yang bisa digunakan untuk memformat data dengan cara yang lebih spesifik. Berikut adalah beberapa contohnya:
+
+%v: Digunakan untuk mencetak nilai default dari suatu variabel.
+%+v: Digunakan untuk mencetak nilai default dari suatu variabel beserta informasinya (seperti tipe data dan alamat memori).
+%#v: Digunakan untuk mencetak nilai default dari suatu variabel dalam format hexadecimal.
+%b: Digunakan untuk mencetak nilai binary dari suatu variabel.
+%o: Digunakan untuk mencetak nilai octal dari suatu variabel.
+%x: Digunakan untuk mencetak nilai hexadecimal dari suatu variabel.
+Anda dapat mempelajari lebih lanjut tentang tipe format Golang di dokumentasi resmi: https://www.konsistensi.com/2014/03/mengatasi-angkettidak-valid.html
+%c adalah format string yang digunakan untuk mencetak karakter dalam format UTF-8.
+
