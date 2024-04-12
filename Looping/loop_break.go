@@ -22,6 +22,10 @@ func main () {
 }
 
 /*
+Penjelasan :
+Lalu pada kondisional kedua digunakan untuk memeriksa jika variable i sudah memiliki nilai diatas angka 8, makakeyword break akan terpanggil dan proses looping akan berhenti. Jika kita jalankan pada terminal kita, maka hasilnyaakan seperti pada gambar kedua di bawah.
+
+
 Angka 2
 Angka 4
 Angka 6

@@ -1,0 +1,8 @@
+
+Pembahasan Golang untuk Tema Map
+Map dalam Golang adalah struktur data yang digunakan untuk menyimpan kumpulan data dengan tipe data kunci (key) dan nilai (value). Map memiliki beberapa keuntungan, seperti:
+
+Efisien: Mengakses data dalam map lebih cepat dibandingkan dengan struktur data lain seperti linked list.
+Mudah digunakan: Map mudah dideklarasikan dan digunakan dalam program Golang.
+Fleksibel: Map dapat digunakan untuk menyimpan berbagai jenis data, seperti string, integer, float, dan boolean untuk key dan value.
+
