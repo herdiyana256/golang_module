@@ -1,4 +1,6 @@
 golang module 
+![1_Ifpd_HtDiK9u6h68SZgNuA](https://github.com/herdiyana256/golang_module/assets/82978131/a5469ace-a54c-4fae-9554-cd9c104fd30c)
+
 
 Documentation
 The Go programming language is an open source project to make programmers more productive.
